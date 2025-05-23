@@ -1,7 +1,0 @@
-C:\Users\s227284240\Desktop\GitHub-Projects\IRUD-Assignment-2\IAPP-Assignment-2\IAPP-Assignment-2\bin\Debug\IAPP-Assignment-2.exe.config
-C:\Users\s227284240\Desktop\GitHub-Projects\IRUD-Assignment-2\IAPP-Assignment-2\IAPP-Assignment-2\bin\Debug\IAPP-Assignment-2.exe
-C:\Users\s227284240\Desktop\GitHub-Projects\IRUD-Assignment-2\IAPP-Assignment-2\IAPP-Assignment-2\bin\Debug\IAPP-Assignment-2.pdb
-C:\Users\s227284240\Desktop\GitHub-Projects\IRUD-Assignment-2\IAPP-Assignment-2\IAPP-Assignment-2\obj\Debug\IAPP-Assignment-2.csproj.AssemblyReference.cache
-C:\Users\s227284240\Desktop\GitHub-Projects\IRUD-Assignment-2\IAPP-Assignment-2\IAPP-Assignment-2\obj\Debug\IAPP-Assignment-2.csproj.CoreCompileInputs.cache
-C:\Users\s227284240\Desktop\GitHub-Projects\IRUD-Assignment-2\IAPP-Assignment-2\IAPP-Assignment-2\obj\Debug\IAPP-Assignment-2.exe
-C:\Users\s227284240\Desktop\GitHub-Projects\IRUD-Assignment-2\IAPP-Assignment-2\IAPP-Assignment-2\obj\Debug\IAPP-Assignment-2.pdb
