@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s227284240\\Desktop\\GitHub-Projects\\IRUD-Assignment-2\\IRUD-Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E8237C-E70B-438B-9D64-A66A90944A92}|IRUD-Assignment\\IRUD-Assignment.csproj|c:\\users\\s227284240\\desktop\\github-projects\\irud-assignment-2\\irud-assignment\\irud-assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E8237C-E70B-438B-9D64-A66A90944A92}|IRUD-Assignment\\IRUD-Assignment.csproj|solutionrelative:irud-assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s227284240\\Desktop\\GitHub-Projects\\IRUD-Assignment-2\\IRUD-Assignment\\IRUD-Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "IRUD-Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\s227284240\\Desktop\\GitHub-Projects\\IRUD-Assignment-2\\IRUD-Assignment\\IRUD-Assignment\\Program.cs",
+              "RelativeToolTip": "IRUD-Assignment\\Program.cs",
+              "ViewState": "AgIAAEUBAAAAAAAAAAA4wGIBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:24:19.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\s227284240\Desktop\GitHub-Projects\IRUD-Assignment-2\IRUD-Assignment\IRUD-Assignment\bin\Debug\IRUD-Assignment.exe.config
+C:\Users\s227284240\Desktop\GitHub-Projects\IRUD-Assignment-2\IRUD-Assignment\IRUD-Assignment\bin\Debug\IRUD-Assignment.exe
+C:\Users\s227284240\Desktop\GitHub-Projects\IRUD-Assignment-2\IRUD-Assignment\IRUD-Assignment\bin\Debug\IRUD-Assignment.pdb
+C:\Users\s227284240\Desktop\GitHub-Projects\IRUD-Assignment-2\IRUD-Assignment\IRUD-Assignment\obj\Debug\IRUD-Assignment.csproj.AssemblyReference.cache
+C:\Users\s227284240\Desktop\GitHub-Projects\IRUD-Assignment-2\IRUD-Assignment\IRUD-Assignment\obj\Debug\IRUD-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\s227284240\Desktop\GitHub-Projects\IRUD-Assignment-2\IRUD-Assignment\IRUD-Assignment\obj\Debug\IRUD-Assignment.exe
+C:\Users\s227284240\Desktop\GitHub-Projects\IRUD-Assignment-2\IRUD-Assignment\IRUD-Assignment\obj\Debug\IRUD-Assignment.pdb
