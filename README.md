@@ -1,4 +1,4 @@
-# 🏨 Smart Hotel Room Control System – IRUD301 Assignment
+# 🏨 Smart Hotel Room Control System
 
 Welcome to our **Smart Hotel Room Control System** — a console-based simulation designed for our **IRUD301: Design Patterns** assignment.
 
