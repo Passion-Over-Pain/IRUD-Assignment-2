@@ -1,4 +1,3 @@
-# IRUD-Assignment-2
 # 🏨 Smart Hotel Room Control System – IRUD301 Assignment
 
 Welcome to our **Smart Hotel Room Control System** — a console-based simulation designed for our **IRUD301: Design Patterns** assignment.
@@ -15,6 +14,28 @@ This README walks you through:
 - The overall scenario and logic,
 - The class structure and interactions,
 - A **Mermaid UML diagram** of our design,
+---
+# Group Members
+
+This project was completed by the following group members:
+
+- **Jasmin Storm**  
+  <img src="https://github.com/Storm-3.png" width="100" /><br>
+   GitHub Profile: [Jasmin's GitHub](https://github.com/Storm-3)  
+
+- **Juanette Viljoen**  
+  <img src="https://github.com/JuanetteRViljoen.png" width="100" /><br>
+   GitHub Profile: [Juanette's GitHub](https://github.com/JuanetteRViljoen)  
+
+- **Tinotenda Mhedziso**  
+  <img src="https://github.com/Passion-Over-Pain.png" width="100" /><br>
+  GitHub Profile: [Tinotenda's GitHub](https://github.com/Passion-Over-Pain)
+
+<br>
+<br>
+  Each member contributed to different parts of the project, including the Python server, Packet Tracer simulation, and overall system design.
+  
+---
 
 ## 🧠 Scenario Overview
 
